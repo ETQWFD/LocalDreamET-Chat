@@ -3,5 +3,11 @@
     "ETQWFD",
     "yz-china"
   ],
-  "mutes": {}
+  "mutes": {
+    "ET972": {
+      "until": 1794650120,
+      "by": "web-admin",
+      "reason": ""
+    }
+  }
 }
