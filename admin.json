@@ -4,11 +4,5 @@
     "yz-china",
     "ET972"
   ],
-  "mutes": {
-    "ET972": {
-      "until": 1794632145,
-      "by": "web-admin",
-      "reason": ""
-    }
-  }
+  "mutes": {}
 }
